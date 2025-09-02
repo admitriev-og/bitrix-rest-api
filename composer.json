@@ -4,7 +4,7 @@
   "type": "library",
   "require": {
     "php": ">=8.1",
-    "slim/psr7": "dev-master",
+    "slim/psr7": "dev-main",
     "slim/slim": "^4.13",
     "php-di/php-di": "^7.0.6",
     "ogdev/bitrix-rest-api-cache": "dev-master",
