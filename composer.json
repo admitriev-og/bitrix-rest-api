@@ -12,7 +12,7 @@
     "zircote/swagger-php": "^4.8.7",
     "vanderlee/swaggergen": "^2.3.21",
     "swagger-api/swagger-ui": "^v3.52.5",
-    "symfony/dotenv": "^v5.4.22",
+    "symfony/dotenv": "^5.4 || ^6.0 || ^7.0",
     "ogdev/bitrix-models": "dev-master",
     "ogdev/bitrix-rest-api-smart-filter": "dev-master",
     "chadicus/slim-oauth2": "^3.4",
